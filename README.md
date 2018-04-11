@@ -17,5 +17,8 @@ This an empty gradle project that contains:
 $ git clone git@github.com:pameck/gradle-empty-canvas.git
 $ cd gradle-empty-canvas
 $ ./gradlew test
+
+BUILD SUCCESSFUL in 2s
+3 actionable tasks: 3 executed
 ```
 
